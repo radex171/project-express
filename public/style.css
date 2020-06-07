@@ -1,0 +1,10 @@
+
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.notFound {
+    display: block;
+    margin:60px auto;
+}
